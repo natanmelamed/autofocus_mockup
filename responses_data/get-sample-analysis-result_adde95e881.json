@@ -1,0 +1,86 @@
+{
+    "expansion_fields": {
+      "Minute Points": "200",
+      "Daily Points": "5000",
+      "Minute Points Remaining": "198",
+      "Daily Points Remaining": "4960",
+      "Minute Bucket Start": "2020-12-15 06:26:06",
+      "Daily Bucket Start": "2020-12-14 10:13:07"
+    },
+    "main_fields": {
+      "Daily": "3563",
+      "15Min": "192129",
+      "5Min": "515479",
+      "Platforms": "['static_analyzer', 'win7', 'winxp']",
+      "Sections": "['coverage']"
+    },
+    "block_table": [
+      {
+        "Name": "trojan/Win32 EXE.encoder.rl",
+        "Create Date": "2020-03-18 20:23:18",
+        "First Added Daily": "3290",
+        "Last Added Daily": "3373",
+        "First Added 5Min": "437556",
+        "Last Added 5Min": "439015",
+        "Currently Present Daily": "False",
+        "Currently Present 15Min": "False",
+        "Currently Present 5Min": "False"
+      }
+    ],
+    "meta": {
+      "title": "PaloAlto AutoFocus",
+      "image_url": "https://live.paloaltonetworks.com/legacyfs/online/19141_autofocus.png",
+      "main_fields_title": "Versions",
+      "expansion_fields_title": "Bucket Info",
+      "block_table_title": "URL Category"
+    },
+    "raw_data": {
+      "sections": [
+        "coverage"
+      ],
+      "platforms": [
+        "static_analyzer",
+        "win7",
+        "winxp"
+      ],
+      "coverage": {
+        "wf_av_sig": [
+          {
+            "name": "trojan/Win32 EXE.encoder.rl",
+            "create_date": "2020-03-18 20:23:18",
+            "first_added_daily": 3290,
+            "last_added_daily": 3373,
+            "first_added_5min": 437556,
+            "last_added_5min": 439015,
+            "currently_present_daily": false,
+            "currently_present_15min": false,
+            "currently_present_5min": false
+          }
+        ],
+        "dns_sig": [],
+        "fileurl_sig": [],
+        "url_cat": [],
+        "latest_versions": {
+          "daily": 3563,
+          "15min": 192129,
+          "5min": 515479,
+          "platforms": [
+            "static_analyzer",
+            "win7",
+            "winxp"
+          ],
+          "sections": [
+            "coverage"
+          ]
+        }
+      },
+      "bucket_info": {
+        "minute_points": 200,
+        "daily_points": 5000,
+        "minute_points_remaining": 198,
+        "daily_points_remaining": 4960,
+        "minute_bucket_start": "2020-12-15 06:26:06",
+        "daily_bucket_start": "2020-12-14 10:13:07"
+      }
+    }
+  }

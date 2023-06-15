@@ -1,0 +1,27 @@
+{
+    "sections": [
+        "coverage"
+    ],
+    "platforms": [
+        "static_analyzer"
+    ],
+    "coverage": {
+        "wf_av_sig": [],
+        "dns_sig": [],
+        "fileurl_sig": [],
+        "url_cat": [],
+        "latest_versions": {
+            "daily": 3570,
+            "15min": 192129,
+            "5min": 517273
+        }
+    },
+    "bucket_info": {
+        "minute_points": 200,
+        "daily_points": 5000,
+        "minute_points_remaining": 189,
+        "daily_points_remaining": 4776,
+        "minute_bucket_start": "2020-12-20 13:15:05",
+        "daily_bucket_start": "2020-12-19 13:51:11"
+    }
+}

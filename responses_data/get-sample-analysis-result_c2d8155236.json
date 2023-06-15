@@ -1,0 +1,58 @@
+ {
+    "expansion_fields": {
+      "Minute Points": "200",
+      "Daily Points": "5000",
+      "Minute Points Remaining": "189",
+      "Daily Points Remaining": "4776",
+      "Minute Bucket Start": "2020-12-20 13:15:05",
+      "Daily Bucket Start": "2020-12-19 13:51:11"
+    },
+    "main_fields": {
+      "Daily": "3570",
+      "15Min": "192129",
+      "5Min": "517273",
+      "Platforms": "['static_analyzer']",
+      "Sections": "['coverage']"
+    },
+    "block_table": [],
+    "meta": {
+      "title": "PaloAlto AutoFocus",
+      "image_url": "https://live.paloaltonetworks.com/legacyfs/online/19141_autofocus.png",
+      "main_fields_title": "Versions",
+      "expansion_fields_title": "Bucket Info",
+      "block_table_title": "URL Category"
+    },
+    "raw_data": {
+      "sections": [
+        "coverage"
+      ],
+      "platforms": [
+        "static_analyzer"
+      ],
+      "coverage": {
+        "wf_av_sig": [],
+        "dns_sig": [],
+        "fileurl_sig": [],
+        "url_cat": [],
+        "latest_versions": {
+          "daily": 3570,
+          "15min": 192129,
+          "5min": 517273,
+          "platforms": [
+            "static_analyzer"
+          ],
+          "sections": [
+            "coverage"
+          ]
+        }
+      },
+      "bucket_info": {
+        "minute_points": 200,
+        "daily_points": 5000,
+        "minute_points_remaining": 189,
+        "daily_points_remaining": 4776,
+        "minute_bucket_start": "2020-12-20 13:15:05",
+        "daily_bucket_start": "2020-12-19 13:51:11"
+      }
+    }
+ }

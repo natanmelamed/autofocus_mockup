@@ -1,0 +1,14 @@
+{
+    "af_cookie": null,
+    "af_complete_percentage": 0,
+    "af_in_progress": true,
+    "af_first_result_af_took": 0,
+    "bucket_info": {
+        "minute_points": 200,
+        "daily_points": 5000,
+        "minute_points_remaining": null,
+        "daily_points_remaining": null,
+        "minute_bucket_start": null,
+        "daily_bucket_start": null
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "sections": [
+        "coverage"
+    ],
+    "platforms": [
+        "static_analyzer",
+        "win7",
+        "winxp"
+    ],
+    "coverage": {
+        "wf_av_sig": [
+            {
+                "name": "Virus/Win32.WGeneric.ahywbz",
+                "create_date": "2020-01-28 18:00:43",
+                "first_added_daily": 3240,
+                "last_added_daily": 3559,
+                "first_added_5min": 423192,
+                "last_added_5min": 515418,
+                "currently_present_daily": false,
+                "currently_present_15min": false,
+                "currently_present_5min": false
+            }
+        ],
+        "dns_sig": [
+            {
+                "name": "generic:www.oasineldeserto.info",
+                "create_date": "2020-01-22 23:21:56",
+                "first_added_daily": 3235,
+                "last_added_daily": 3236,
+                "first_added_5min": 421531,
+                "last_added_5min": 421531,
+                "currently_present_daily": false,
+                "currently_present_15min": false,
+                "currently_present_5min": false,
+                "domain": "www.oasineldeserto.info",
+                "verdict": "Malware"
+            },
+            {
+                "name": "generic:oasineldeserto.info",
+                "create_date": "2020-01-30 00:53:45",
+                "first_added_daily": 3242,
+                "last_added_daily": 3242,
+                "first_added_5min": 423563,
+                "last_added_5min": 423563,
+                "currently_present_daily": false,
+                "currently_present_15min": false,
+                "currently_present_5min": false,
+                "domain": "oasineldeserto.info",
+                "verdict": "Malware"
+            }
+        ],
+        "fileurl_sig": [],
+        "url_cat": [
+            {
+                "url": "ns47.domaincontrol.com",
+                "cat": "Insufficient Content",
+                "importance": 0
+            },
+            {
+                "url": "ns48.domaincontrol.com",
+                "cat": "Insufficient Content",
+                "importance": 0
+            },
+            {
+                "url": "oasineldeserto.info",
+                "cat": "Malware",
+                "importance": 0
+            },
+            {
+                "url": "www.oasineldeserto.info",
+                "cat": "Malware",
+                "importance": 0
+            }
+        ],
+        "latest_versions": {
+            "daily": 3563,
+            "15min": 192129,
+            "5min": 515479
+        }
+    },
+    "bucket_info": {
+        "minute_points": 200,
+        "daily_points": 5000,
+        "minute_points_remaining": 198,
+        "daily_points_remaining": 4962,
+        "minute_bucket_start": "2020-12-15 06:23:09",
+        "daily_bucket_start": "2020-12-14 10:13:07"
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "hits": [
+        {
+            "_source": {
+                "sha1": "8d4fdf7299f08c6afa1bea67e1fb9c2da604850a",
+                "filetype": "PDF",
+                "malware": 1,
+                "sha256": "517699afc61e3f2126bffa49967e3c5dc40496974e43e660507d7620d7ba81ef",
+                "size": 72701,
+                "finish_date": "2020-06-29T16:34:14",
+                "create_date": "2020-06-29T16:23:13",
+                "region": [
+                    "us"
+                ],
+                "update_date": "2020-12-20T04:47:20",
+                "md5": "c2d81552367f3eed5bc0314ebe96ef15",
+                "tag_groups": []
+            },
+            "_id": "517699afc61e3f2126bffa49967e3c5dc40496974e43e660507d7620d7ba81ef",
+            "visible": true
+        }
+    ],
+    "total": 1,
+    "took": 9248,
+    "tags": {},
+    "tag_groups": {},
+    "original_query": {
+        "body": {
+            "size": 50,
+            "query": {
+                "children": [
+                    {
+                        "field": "sample.md5",
+                        "value": "c2d81552367f3eed5bc0314ebe96ef15",
+                        "operator": "is"
+                    }
+                ],
+                "operator": "any"
+            },
+            "scope": "public",
+            "from": 0,
+            "sort": {
+                "update_date": {
+                    "order": "desc"
+                }
+            }
+        },
+        "url": "/api/v1.0/samples/search"
+    },
+    "af_message": "complete",
+    "af_in_progress": false,
+    "af_first_result_af_took": 3526,
+    "af_complete_percentage": 100,
+    "af_cookie": "2-d6dddba0-a8b2-4d15-b403-b7f3e27b997b+0",
+    "bucket_info": {
+        "minute_points": 200,
+        "daily_points": 5000,
+        "minute_points_remaining": 189,
+        "daily_points_remaining": 4776,
+        "minute_bucket_start": "2020-12-20 13:15:05",
+        "daily_bucket_start": "2020-12-19 13:51:11"
+    }
+}

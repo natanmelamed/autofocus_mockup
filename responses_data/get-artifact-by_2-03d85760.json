@@ -1,0 +1,1720 @@
+{
+    "hits": [
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 0,
+                "sha256": "57ff8233b22c9fc0886e669c2803cf5069c07a99dab52bb3b7d8ab9731ae3e5d",
+                "ssdeep": "12288:KBCSCLgbIa/IcYp3+2+WvkYp3+2+WvkYp3+2+WvzC:pxK25gk5gk5gsC",
+                "update_date": "2020-12-19T15:58:46",
+                "sha1": "352eded2f23496416ca40ea0a5d37dcb62c564de",
+                "imphash": "278b010ba4e0e2e7fdeb732da03a36e6",
+                "size": 589824,
+                "finish_date": "2020-08-31T18:41:43",
+                "create_date": "2020-08-31T18:25:24",
+                "region": [
+                    "us"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2019-09-06T23:49:24"
+                    }
+                ],
+                "md5": "26474f50e47240db3a7442a8394bc4bf",
+                "tag": [
+                    "Unit42.HttpNoUserAgent",
+                    "Unit42.IPAddressLookup"
+                ],
+                "tag_groups": []
+            },
+            "_id": "57ff8233b22c9fc0886e669c2803cf5069c07a99dab52bb3b7d8ab9731ae3e5d",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 0,
+                "sha256": "21a10f59e945b3c50093c12599a07d6c4c8af5cea0912ab939a1916112eda5d1",
+                "ssdeep": "3072:39FZBd0E3m6WpXjuKPdXrhMfOy8DvkqMI+QotXQN2:vd0E3m6WRuKPly8DvzMIQtX42",
+                "update_date": "2020-12-18T15:58:32",
+                "sha1": "50ed7692dd258360e4b360a218e0c8dbcf01e698",
+                "imphash": "0d286c16c326d3093f6e5cd437c6028d",
+                "size": 261496,
+                "finish_date": "2020-09-02T19:10:59",
+                "create_date": "2020-09-02T19:01:02",
+                "region": [
+                    "us"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2020-05-12T22:22:56"
+                    }
+                ],
+                "md5": "d712ebe2e8c402b9bc7ad96dedf922fa",
+                "tag_groups": []
+            },
+            "_id": "21a10f59e945b3c50093c12599a07d6c4c8af5cea0912ab939a1916112eda5d1",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 0,
+                "sha256": "fc8db245b7da72411b4f1f03436857fca1b527a7d74cff0d54c225ef3e77f3e2",
+                "ssdeep": "24576:lsLrv2Gzej4ZCtxoEg/kDFdB1d9PQI51RaKi+ljoyRUpsURIXXs6z:lsLrv2GqIcoE/3lPPN3J7U6URIHh",
+                "update_date": "2020-12-17T16:03:13",
+                "sha1": "7614ace81f2d9dd8ebf933e72d5a575369bf8ba1",
+                "imphash": "2d191799927b10ae88bccff9cf92aa8b",
+                "size": 1384448,
+                "finish_date": "2019-09-02T03:02:40",
+                "create_date": "2019-09-02T02:56:41",
+                "region": [
+                    "us",
+                    "eu"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2019-06-26T14:47:42"
+                    }
+                ],
+                "md5": "f1380cd201fda8d3a2d150ca11e2e0b1",
+                "tag": [],
+                "tag_groups": []
+            },
+            "_id": "fc8db245b7da72411b4f1f03436857fca1b527a7d74cff0d54c225ef3e77f3e2",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 0,
+                "sha256": "5a19a6dd56c056cd31480e85379b7d2198be8f717d80edb202381e4076f29fdc",
+                "ssdeep": "24576:v9Ul6uY9uwfMSBFgNv/GWjWnKfMUqrYc8Pg:ve6uLSIoW7rqrOPg",
+                "update_date": "2020-12-17T15:58:32",
+                "sha1": "72cd5a5c680a597c10124ec94679964e5db9ae9d",
+                "imphash": "a9f3bdc3248bb65877b75d11bacd310a",
+                "size": 836096,
+                "finish_date": "2019-09-24T21:25:44",
+                "create_date": "2019-09-24T21:19:30",
+                "region": [
+                    "us"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2010-07-16T09:25:20"
+                    }
+                ],
+                "md5": "3a9cf86653f6c7686ad39c2ef8be175e",
+                "tag": [
+                    "Unit42.UPXPacked"
+                ],
+                "tag_groups": []
+            },
+            "_id": "5a19a6dd56c056cd31480e85379b7d2198be8f717d80edb202381e4076f29fdc",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 0,
+                "sha256": "41cd846792367d3af7c9cd117a2b3bd702b9f1710cebefab21a4135aec86ca90",
+                "ssdeep": "98304:C+0GKZbjR/f1Sg78wB6oEpYgLpSyXT5jEatK3jajpU9tmCReWqHyWT/e9grlqv:Ybd31SW82REpnlfT5JbjpUrmMXIe9g5+",
+                "update_date": "2020-12-17T07:36:06",
+                "sha1": "9326d033aff5b43f44029c833b103ba402092155",
+                "digital_signer": "TraceTronic GmbH",
+                "imphash": "ea5d8aa5b08e591df952634a6f97efcc",
+                "size": 5445856,
+                "finish_date": "2020-06-09T05:10:33",
+                "create_date": "2020-06-09T05:02:45",
+                "region": [
+                    "us"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2020-06-09T06:55:58"
+                    }
+                ],
+                "md5": "eb7a80e3c037b0af41ff8f7f2f308032",
+                "tag": [
+                    "Unit42.VirtualMachineDetection"
+                ],
+                "tag_groups": []
+            },
+            "_id": "41cd846792367d3af7c9cd117a2b3bd702b9f1710cebefab21a4135aec86ca90",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "7b963fbee68fedfa238db23127a69e126f2e5fc7f565afae2fdecc9c6d4184cf",
+                "ssdeep": "12288:O0PDFkDzCCWia3EdEclTicjbJ6TXeYjSQ9xJCfkrxUJXhhm:dDSDjTKVpMkryl",
+                "update_date": "2020-12-16T12:16:51",
+                "sha1": "7abaf93661abff338e77819aee29b8ca7a1a8634",
+                "imphash": "409c74736cd708a3546edbe2aab89b04",
+                "size": 802304,
+                "finish_date": "2020-11-19T08:18:18",
+                "create_date": "2020-11-19T08:07:47",
+                "region": [
+                    "us"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2020-11-09T19:12:50"
+                    }
+                ],
+                "md5": "78595158c37080601198a8597be2a629",
+                "tag": [
+                    "Unit42.Egregor"
+                ],
+                "tag_groups": [
+                    "Ransomware"
+                ]
+            },
+            "_id": "7b963fbee68fedfa238db23127a69e126f2e5fc7f565afae2fdecc9c6d4184cf",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "2560c2808cee758a2f074da2811b0b0eea83511b2c4cc1116061388cab38b9a2",
+                "ssdeep": "12288:SP2nI91nFoMW9XeJSGadgR0O+VPhV/2DyqHO/Dzy4wE4rieJ:SY2BadgRLgP1hbzy4Yrl",
+                "update_date": "2020-12-16T12:16:36",
+                "sha1": "4bf2612cf68fbd9e4b0b1c66c5fa5674426b3a3f",
+                "imphash": "a425f4f6fe723a4ffe990e4611c62d08",
+                "size": 785920,
+                "finish_date": "2020-11-19T08:19:30",
+                "create_date": "2020-11-19T08:08:04",
+                "region": [
+                    "us"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2020-10-16T19:10:17"
+                    }
+                ],
+                "md5": "71de57c1ae4303239ac07ef0965410ac",
+                "tag": [
+                    "Unit42.Egregor"
+                ],
+                "tag_groups": [
+                    "Ransomware"
+                ]
+            },
+            "_id": "2560c2808cee758a2f074da2811b0b0eea83511b2c4cc1116061388cab38b9a2",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "e5bdcd449f949c33babf1679f879bdf05aacf90bb798bc94a9d355d75429cfce",
+                "ssdeep": "12288:CPPCQ91nFoMWrwSFOAg56cTdSztKe2f74OsmUpmMWXaHYi/Evv4bp:CiH2Cpi1BUpfwaHt1",
+                "update_date": "2020-12-16T12:16:36",
+                "sha1": "9321560c9f379f6a703294bf89220c531c45bc54",
+                "imphash": "a425f4f6fe723a4ffe990e4611c62d08",
+                "size": 785408,
+                "finish_date": "2020-11-19T08:19:39",
+                "create_date": "2020-11-19T08:08:33",
+                "region": [
+                    "us"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2020-10-24T23:34:47"
+                    }
+                ],
+                "md5": "1eee99a224ff3df78a3e436284944753",
+                "tag": [
+                    "Unit42.Egregor"
+                ],
+                "tag_groups": [
+                    "Ransomware"
+                ]
+            },
+            "_id": "e5bdcd449f949c33babf1679f879bdf05aacf90bb798bc94a9d355d75429cfce",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "bc3b6ceb87b5e8b8d58bbc48d092b3480629cb362622a829559a111eb7525561",
+                "ssdeep": "12288:PmgrpDurHTT6MM+AvAU6TXeYjCZiuVkRyAy7YdpOkCXP9d:drBuEvUV+M6aTU9",
+                "update_date": "2020-12-16T12:16:36",
+                "sha1": "c11339d13b159b8f412350d7a1d73c6e9d988cf4",
+                "imphash": "928f770c05f587302d7b3747aa5fe178",
+                "size": 813056,
+                "finish_date": "2020-11-19T08:19:23",
+                "create_date": "2020-11-19T08:08:20",
+                "region": [
+                    "us"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2020-11-05T20:44:08"
+                    }
+                ],
+                "md5": "d2983fd26126cbdd9223f9d6ab3ede0d",
+                "tag": [
+                    "Unit42.Egregor"
+                ],
+                "tag_groups": [
+                    "Ransomware"
+                ]
+            },
+            "_id": "bc3b6ceb87b5e8b8d58bbc48d092b3480629cb362622a829559a111eb7525561",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "cdee24142560d093edad7b578e0c4c4459cc0377008335c91ab4fd103cdbca74",
+                "ssdeep": "12288:PP9Fk91nFoMWTbxUW/y56Tsf0zGeUsmyVi5MCdA80KjAJp:Pfs9KLUxSqAf",
+                "update_date": "2020-12-16T12:16:35",
+                "sha1": "6e6110a87ed512d703d6519512089b432918bdac",
+                "imphash": "a425f4f6fe723a4ffe990e4611c62d08",
+                "size": 786944,
+                "finish_date": "2020-11-19T08:18:40",
+                "create_date": "2020-11-19T08:08:27",
+                "region": [
+                    "us"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2020-10-26T19:36:44"
+                    }
+                ],
+                "md5": "797007b67bfbc41f8a5f254d76769b50",
+                "tag": [
+                    "Unit42.Egregor"
+                ],
+                "tag_groups": [
+                    "Ransomware"
+                ]
+            },
+            "_id": "cdee24142560d093edad7b578e0c4c4459cc0377008335c91ab4fd103cdbca74",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "f8d4dbee7bb3a4b830376d7324e1529993c83bdc3f7b4b597f3db851e408cb8c",
+                "ssdeep": "12288:885TCAgejIrgj04Z/9gjbw6nFztKekwiN7UK5TNCT7hLr6+RJl+:PTCR4tapwN7Hf87w0/",
+                "update_date": "2020-12-16T12:16:33",
+                "sha1": "c725e8e89064e1d1a2e85e86b35e87fbbe9e5c4b",
+                "imphash": "37ddc686aa8706d70a2848980caf2259",
+                "size": 801792,
+                "finish_date": "2020-11-19T08:17:33",
+                "create_date": "2020-11-19T08:08:31",
+                "region": [
+                    "us"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2020-11-13T19:19:40"
+                    }
+                ],
+                "md5": "ca72ddd78b2b31c6ca1d088dcfb57766",
+                "tag": [
+                    "Unit42.Egregor"
+                ],
+                "tag_groups": [
+                    "Ransomware"
+                ]
+            },
+            "_id": "f8d4dbee7bb3a4b830376d7324e1529993c83bdc3f7b4b597f3db851e408cb8c",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "5e326ea6cf5750e40d28458576a2171bac4e0b1fced259fe6ebc1185d2f95a4f",
+                "ssdeep": "12288:oQmAezlB4hf7yhY96Zh4Wjb16nFztKxHBzS4+fUs3xHxi:UB4iYp2dB+f7R",
+                "update_date": "2020-12-16T12:16:33",
+                "sha1": "2d8fcb87165ccb80fbaa12b11a4355a47b23c16a",
+                "imphash": "817eaf8f5aa3047c0c827e3d2e19c322",
+                "size": 802816,
+                "finish_date": "2020-11-19T08:18:39",
+                "create_date": "2020-11-19T08:08:30",
+                "region": [
+                    "us"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2020-11-13T19:58:01"
+                    }
+                ],
+                "md5": "700aa2210b1208a2fbcbe273505f32dd",
+                "tag": [
+                    "Unit42.Egregor"
+                ],
+                "tag_groups": [
+                    "Ransomware"
+                ]
+            },
+            "_id": "5e326ea6cf5750e40d28458576a2171bac4e0b1fced259fe6ebc1185d2f95a4f",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "96b8f30d611f3d7d1ae0e1d83e9a06ded4ba7efd699548f32acb55c690dada9f",
+                "ssdeep": "12288:IPjiD91nFoMWpWgjltgTg490dJ5NAdYlY97rvlaOCTLfXt:IeciYFU8OAX",
+                "update_date": "2020-12-16T12:16:31",
+                "sha1": "b46f4d91b80cd79bf96c7d0e435f528fc169c552",
+                "imphash": "a425f4f6fe723a4ffe990e4611c62d08",
+                "size": 787968,
+                "finish_date": "2020-11-19T08:19:20",
+                "create_date": "2020-11-19T08:08:00",
+                "region": [
+                    "us"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2020-11-03T09:16:43"
+                    }
+                ],
+                "md5": "583f28c709b5c16d9bedddaeb91d07af",
+                "tag": [
+                    "Unit42.Egregor"
+                ],
+                "tag_groups": [
+                    "Ransomware"
+                ]
+            },
+            "_id": "96b8f30d611f3d7d1ae0e1d83e9a06ded4ba7efd699548f32acb55c690dada9f",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "88bf30b39e0cb8ad90c3c2a3ddc7ec6946b44a940be6e7441159588949c0032d",
+                "ssdeep": "12288:LPYoW91nFoMWJl3yjhRM56Ei3xzWKemt0reduSJMx+p:LpAsycmZdzl",
+                "update_date": "2020-12-16T12:16:31",
+                "sha1": "f67be056b66f125b5ba51f67b09ef4d0d09fdc7f",
+                "imphash": "a425f4f6fe723a4ffe990e4611c62d08",
+                "size": 784384,
+                "finish_date": "2020-11-19T08:18:27",
+                "create_date": "2020-11-19T08:07:48",
+                "region": [
+                    "us"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2020-10-22T20:14:40"
+                    }
+                ],
+                "md5": "ec9b4fc646ad304b08cbd8e54cd78ca9",
+                "tag": [
+                    "Unit42.Egregor"
+                ],
+                "tag_groups": [
+                    "Ransomware"
+                ]
+            },
+            "_id": "88bf30b39e0cb8ad90c3c2a3ddc7ec6946b44a940be6e7441159588949c0032d",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "c28d15059399b6fc7fb22fe89c1687b3560897afb25e485b7cb37108b87f4c03",
+                "ssdeep": "12288:8PWCA91nFoMWpGZPemkV56m2Wmz/Ke2OyjSzpMvZAvp:8tse3sv2H+9aAv",
+                "update_date": "2020-12-16T12:16:31",
+                "sha1": "46c34c8562f427b0beecefd16dcff62d97dff2a7",
+                "imphash": "a425f4f6fe723a4ffe990e4611c62d08",
+                "size": 783872,
+                "finish_date": "2020-11-19T08:19:42",
+                "create_date": "2020-11-19T08:07:59",
+                "region": [
+                    "us"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2020-10-24T23:05:52"
+                    }
+                ],
+                "md5": "3e3a4525bf1e1e2576fb152a4a7f9e34",
+                "tag": [
+                    "Unit42.Egregor"
+                ],
+                "tag_groups": [
+                    "Ransomware"
+                ]
+            },
+            "_id": "c28d15059399b6fc7fb22fe89c1687b3560897afb25e485b7cb37108b87f4c03",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "adc8e47d992edd224ddee4738d773e818be8eeeeef44158c287fe283536bf701",
+                "ssdeep": "12288:WPAFc91nFoMWTbpwaDTg993x/f5NAEXpNUqjAaZIABesp:WIYHRbDZNUhOIAh",
+                "update_date": "2020-12-16T12:16:31",
+                "sha1": "7722789b65f67dfc05d717cf1d377708700c7e83",
+                "imphash": "a425f4f6fe723a4ffe990e4611c62d08",
+                "size": 786944,
+                "finish_date": "2020-11-19T08:21:21",
+                "create_date": "2020-11-19T08:08:22",
+                "region": [
+                    "us"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2020-10-27T18:35:12"
+                    }
+                ],
+                "md5": "931876de4b3b509afd40528477c8bc7b",
+                "tag": [
+                    "Unit42.Egregor"
+                ],
+                "tag_groups": [
+                    "Ransomware"
+                ]
+            },
+            "_id": "adc8e47d992edd224ddee4738d773e818be8eeeeef44158c287fe283536bf701",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "6ffd59fa710759db8d9d6db2216ddcddbcdf6aa4d72941753ea902661080f07f",
+                "ssdeep": "12288:nPdF891nFoMWTbeuTDQg993x/f5NAgt2TBvU8iuLZCmcg1psp:nfntRbrae7mS",
+                "update_date": "2020-12-16T12:16:31",
+                "sha1": "afd90eb3fcce88beecf2d1dc52fe7551583a2c62",
+                "imphash": "a425f4f6fe723a4ffe990e4611c62d08",
+                "size": 786944,
+                "finish_date": "2020-11-19T08:17:19",
+                "create_date": "2020-11-19T08:07:43",
+                "region": [
+                    "us"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2020-10-29T18:34:09"
+                    }
+                ],
+                "md5": "019e9c3370fa1b99e20b8ab1726038ee",
+                "tag": [
+                    "Unit42.Egregor"
+                ],
+                "tag_groups": [
+                    "Ransomware"
+                ]
+            },
+            "_id": "6ffd59fa710759db8d9d6db2216ddcddbcdf6aa4d72941753ea902661080f07f",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "7b21c7694a8015f3b3fc6003050d70e462d83a778244c9b26df2306a0414a227",
+                "ssdeep": "12288:hmEv6GDiRtf+3j4rPoYm6TXeYjPZtHHRnM+1qgD:hmG68YwY1VltHHRDv",
+                "update_date": "2020-12-16T12:16:31",
+                "sha1": "a0a9517fda84c2b7710dfba32b7df55a8b7ebc6c",
+                "imphash": "7d85185561d1fe0b67a78d80ad1ac7db",
+                "size": 814592,
+                "finish_date": "2020-11-19T08:21:25",
+                "create_date": "2020-11-19T08:08:03",
+                "region": [
+                    "us"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2020-11-05T16:58:17"
+                    }
+                ],
+                "md5": "ead077c976d6bc61ac6aaf3af847b1be",
+                "tag": [
+                    "Unit42.Egregor"
+                ],
+                "tag_groups": [
+                    "Ransomware"
+                ]
+            },
+            "_id": "7b21c7694a8015f3b3fc6003050d70e462d83a778244c9b26df2306a0414a227",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "47da1db2c8e9db26215d9c6efb7326739e241583106e0954709d60e90513aabc",
+                "ssdeep": "12288:VTouwVL81LNdljx5t6nPGebJeTzVA7lOnVhNU:NodKjx5i7dOH",
+                "update_date": "2020-12-16T12:16:31",
+                "sha1": "c88bcfebaf1d3bcb07a6e5e4370da5b50712a131",
+                "imphash": "0467f09a9ac3a8400cf260fd785be3fc",
+                "size": 799744,
+                "finish_date": "2020-11-19T08:19:16",
+                "create_date": "2020-11-19T08:08:01",
+                "region": [
+                    "us"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2020-11-11T20:39:10"
+                    }
+                ],
+                "md5": "c26f64a2cbd6cdb2139539e3c1352d64",
+                "tag": [
+                    "Unit42.Egregor"
+                ],
+                "tag_groups": [
+                    "Ransomware"
+                ]
+            },
+            "_id": "47da1db2c8e9db26215d9c6efb7326739e241583106e0954709d60e90513aabc",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "ec4283986ef40d4b0b8183f8360cc3cbfebdc0e1ca78918c6e97eac50e4b5ebf",
+                "ssdeep": "12288:m/8j+2vE6ywjfSUbMdkbtqpVGA5Sb15NAKtOWzm4w8Qa79fz:m/mpvWkBqjkhHm5ax",
+                "update_date": "2020-12-16T12:16:31",
+                "sha1": "a4cd659cd8640bc8f64dbd4ae25118407319d074",
+                "imphash": "c54f8add3e398b478d6f2795fe9f1a7b",
+                "size": 809472,
+                "finish_date": "2020-11-19T08:18:41",
+                "create_date": "2020-11-19T08:08:14",
+                "region": [
+                    "us"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2020-11-03T15:23:45"
+                    }
+                ],
+                "md5": "a7963782b15c3aa250497f8ec6eac071",
+                "tag": [
+                    "Unit42.Egregor"
+                ],
+                "tag_groups": [
+                    "Ransomware"
+                ]
+            },
+            "_id": "ec4283986ef40d4b0b8183f8360cc3cbfebdc0e1ca78918c6e97eac50e4b5ebf",
+            "visible": true
+        },
+        {
+            "_source": {
+                "sha1": "68ca63fd2e54cf35a8ea8b000bbaa9e788c82e24",
+                "filetype": "DLL",
+                "malware": 0,
+                "sha256": "9c66f196b4837efaaa1d808c30e4ffd02e16255d2326e1f7fcd3b9b164213d53",
+                "size": 495024,
+                "finish_date": "2020-12-12T17:57:54",
+                "ssdeep": "1536:CP9iR4xIoXV/4EehxkLgaMQY8G/BpUtaf64/RXUV1dwn:U1IoXVehxjaMQY8GppUt3V12n",
+                "create_date": "2020-12-12T17:43:59",
+                "region": [
+                    "us"
+                ],
+                "update_date": "2020-12-16T11:18:32",
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2020-07-30T22:01:56"
+                    }
+                ],
+                "md5": "ffe91823a5d4ca8a858dff07398c687c",
+                "tag": [],
+                "tag_groups": []
+            },
+            "_id": "9c66f196b4837efaaa1d808c30e4ffd02e16255d2326e1f7fcd3b9b164213d53",
+            "visible": true
+        },
+        {
+            "_source": {
+                "sha1": "7fbcf2c900524d5b4f80073dff16a25978efaa50",
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "8546ac677e08bc6ee3d99b09b31a2828adb19d2ec37d29cdb310b136e87d24ca",
+                "size": 7573,
+                "finish_date": "2020-01-04T10:38:59",
+                "ssdeep": "192:nSSSWaYnTDPMUd6bGaUtMv6Y2bVj4X8D7:SCHDPMs4GdtyO5r3",
+                "region": [
+                    "us"
+                ],
+                "create_date": "2020-01-04T10:33:08",
+                "update_date": "2020-12-16T10:21:35",
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "1992-06-19T22:22:17"
+                    }
+                ],
+                "md5": "58872cb7afab769f5e77013da700813c",
+                "tag": [
+                    "Unit42.UPXPacked",
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "8546ac677e08bc6ee3d99b09b31a2828adb19d2ec37d29cdb310b136e87d24ca",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "778ab6e81bffe0c90c96a6e35f466b22c113d2472d1e32372191bfe60d80a5a5",
+                "ssdeep": "12288:ea8zfiYk5xOAxuiS6uVrVihM7rX3jjxTlgJ5h7JvvwzwVX3gH4xrUZ:IzqcTjxk3cwVXwHcUZ",
+                "update_date": "2020-12-16T10:21:35",
+                "sha1": "ecbc60368a7860299324244e21acb882574206a2",
+                "imphash": "481949ac9fdbdfa8389c2d5d6ecab91e",
+                "size": 631662,
+                "finish_date": "2020-01-03T18:34:17",
+                "region": [
+                    "us"
+                ],
+                "create_date": "2020-01-03T18:26:14",
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2013-12-03T02:28:45"
+                    }
+                ],
+                "md5": "bc0baa95ce088e05d6b2c9325387a00b",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "778ab6e81bffe0c90c96a6e35f466b22c113d2472d1e32372191bfe60d80a5a5",
+            "visible": true
+        },
+        {
+            "_source": {
+                "sha1": "16cceac54ce3b5651dfe09c5ffb00569e3104468",
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "52f6e650623f787c59ae111f75cf75f77e59e7eea1b0b44d2f3fcaca88654f1c",
+                "size": 397684,
+                "finish_date": "2020-01-06T07:26:49",
+                "ssdeep": "12288:1QXznhWxifqPG8yDAay0BQeMrtQW27ZJ6ObWTEj:1QXznYybPJnWTEj",
+                "region": [
+                    "us"
+                ],
+                "create_date": "2020-01-06T07:21:01",
+                "update_date": "2020-12-16T10:21:35",
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2013-11-28T06:21:10"
+                    }
+                ],
+                "md5": "d7f38cd0d068abd9a482bd6f9e56f873",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "52f6e650623f787c59ae111f75cf75f77e59e7eea1b0b44d2f3fcaca88654f1c",
+            "visible": true
+        },
+        {
+            "_source": {
+                "sha1": "4b07a9d59c6d1e53935cd0a6b233236860b0543d",
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "59c8ad36a18173be1858046a2bd731fe738084dc6979ede694649fadde6b7543",
+                "size": 72942,
+                "finish_date": "2020-01-02T16:49:52",
+                "ssdeep": "1536:a5A8OSGjylgkara+70LICin9zgtg2LxowhtY:vzjLkarn7O+n9z2L6whG",
+                "region": [
+                    "us"
+                ],
+                "create_date": "2020-01-02T16:43:40",
+                "update_date": "2020-12-16T10:21:34",
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2008-01-30T15:15:35"
+                    }
+                ],
+                "md5": "c8aa59d8e97a36f14a68687ee7ef312e",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "59c8ad36a18173be1858046a2bd731fe738084dc6979ede694649fadde6b7543",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "47dbbb63f694990ce1a0ce9c5f05fe47e7da314e697f8ab905cfc43b9cb08270",
+                "ssdeep": "192:zPic9Qo/GvAhB1jDmiDkyqVK26gDUI15ISP3kNxzbPUsBZJJ/ouBzeZEEZg:zqcqKPmEBvxgU6GSPaxssBJ/VBzI3",
+                "update_date": "2020-12-16T10:21:30",
+                "sha1": "40fc52c897ddebcc5c92fbf74dd5c846925807ba",
+                "imphash": "7758bd56844432c972118fee5134f9e4",
+                "size": 73216,
+                "finish_date": "2020-01-03T16:57:31",
+                "region": [
+                    "us"
+                ],
+                "create_date": "2020-01-03T16:48:28",
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2012-10-10T12:14:22"
+                    }
+                ],
+                "md5": "3823958dcc4abc98973625a3dcdfcd76",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "47dbbb63f694990ce1a0ce9c5f05fe47e7da314e697f8ab905cfc43b9cb08270",
+            "visible": true
+        },
+        {
+            "_source": {
+                "sha1": "12eae07b8a2468bb9572d8aafbd4c30bba3c61c2",
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "7f14a621eb79213c0865c344eaad7ad903d5ebd96980ff27ed842f0b5d94ee79",
+                "size": 113321,
+                "finish_date": "2020-01-02T17:22:31",
+                "ssdeep": "3072:yOrKGDPCwbbXzU0jrVCnWqJolwPE4Fuc/:yOrNKQjNQnWqJolkFuc/",
+                "region": [
+                    "us"
+                ],
+                "create_date": "2020-01-02T17:17:49",
+                "update_date": "2020-12-16T10:21:30",
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2013-11-28T01:09:46"
+                    }
+                ],
+                "md5": "f81cb7e00d26e048c73a610796181fb0",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "7f14a621eb79213c0865c344eaad7ad903d5ebd96980ff27ed842f0b5d94ee79",
+            "visible": true
+        },
+        {
+            "_source": {
+                "sha1": "bb0766b8ff59c43e6752ab6f9bbf872bfe2149a9",
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "fc207e2872ad4e1d370787149cb8acb0956912ebef4dfa1798249a5cbe8b4f36",
+                "size": 143096,
+                "finish_date": "2020-01-02T10:48:50",
+                "ssdeep": "3072:yOrKGDPCwbbXzU0jrVCnWqJolwPE4FucDElmiYBY13852fNCcAaHW:yOrNKQjNQnWqJolkFucBm1fX2",
+                "region": [
+                    "us"
+                ],
+                "create_date": "2020-01-02T10:42:59",
+                "update_date": "2020-12-16T10:21:27",
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2013-11-28T01:09:46"
+                    }
+                ],
+                "md5": "128658797f86a90ed91f962a5b7b05e1",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "fc207e2872ad4e1d370787149cb8acb0956912ebef4dfa1798249a5cbe8b4f36",
+            "visible": true
+        },
+        {
+            "_source": {
+                "sha1": "512752b3dd961a52598ce90cf4b5b9280a7159eb",
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "5cafe3dc99acb6d24268160e57d08fc3b9900459af992c762e770a7e69c39d3e",
+                "size": 58844,
+                "finish_date": "2020-01-06T07:29:01",
+                "ssdeep": "1536:yO/DUnVGDPCEC/Snb6mlNdDzOT6NZ8ERcQrf7:yOrKGDPCwbbXzU0jrj",
+                "region": [
+                    "us"
+                ],
+                "create_date": "2020-01-06T07:22:30",
+                "update_date": "2020-12-16T10:21:26",
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2013-11-28T01:09:46"
+                    }
+                ],
+                "md5": "9fed9a8c232ce3ccc5c118a8a8939cb3",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "5cafe3dc99acb6d24268160e57d08fc3b9900459af992c762e770a7e69c39d3e",
+            "visible": true
+        },
+        {
+            "_source": {
+                "sha1": "cdf4e967c5f2cafec099781a4ac1bcc6bbc6bc42",
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "740fc3e9b7c59025a969bb0a4c1152472405bdee1301d4ebce5de4e28a8e755b",
+                "size": 52277,
+                "finish_date": "2020-01-07T07:22:39",
+                "ssdeep": "1536:yO/DUnVGDPCEC/Snb6mlNdDzOT6NZ8ERcQV:yOrKGDPCwbbXzU0jV",
+                "region": [
+                    "us"
+                ],
+                "create_date": "2020-01-07T07:17:15",
+                "update_date": "2020-12-16T10:21:25",
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2013-11-28T01:09:46"
+                    }
+                ],
+                "md5": "8a81d9f2bc0d5d42a9ca8e5b0cd0b02b",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "740fc3e9b7c59025a969bb0a4c1152472405bdee1301d4ebce5de4e28a8e755b",
+            "visible": true
+        },
+        {
+            "_source": {
+                "sha1": "9eea7aa5aab63e70f5662003dc943b2d39a6f208",
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "b3046df6ff6df03fb0d3cf1d0e3ce959ad432084f2f66d0c0ada3d55b8cc4019",
+                "size": 63373,
+                "finish_date": "2020-01-01T16:18:37",
+                "ssdeep": "768:HV6nx+yxzIdSy6pBz0DSbv6+qZgI6ismQv2sLZjAd7xcNN1yXAlTU3RNoUh+pc+F:1ex+yxzS8BzS2GlCxicswTUhNiZ0djQ",
+                "region": [
+                    "us"
+                ],
+                "create_date": "2020-01-01T16:12:56",
+                "update_date": "2020-12-16T10:21:25",
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2013-11-28T06:21:10"
+                    }
+                ],
+                "md5": "63ebb10a04ab66287c461e9684b5b157",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "b3046df6ff6df03fb0d3cf1d0e3ce959ad432084f2f66d0c0ada3d55b8cc4019",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "7c0848bc3e0fdd6bca8ff351079ba19f6c1e5cb5b4829f4fe9ffdfb189b874bc",
+                "ssdeep": "24576:NG6HylpvsAEF86/26+3EbGegskzyE3ivQ3abPPGwKqM2Q+PXfiaUKUNoEBJsYt2c:NG6HylpvsAEe6/26+0bGKkOE3ivQ3abG",
+                "update_date": "2020-12-16T10:21:21",
+                "sha1": "8c139fffe8314ee655fb5bc0d183238f5be9a4cc",
+                "imphash": "813398075919d98a536ad0adeaa72097",
+                "size": 1368064,
+                "finish_date": "2020-01-01T00:29:51",
+                "region": [
+                    "us"
+                ],
+                "create_date": "2020-01-01T00:24:24",
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2008-12-04T10:52:16"
+                    }
+                ],
+                "md5": "23da9f6cc404d5b584a690b17a943e3d",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "7c0848bc3e0fdd6bca8ff351079ba19f6c1e5cb5b4829f4fe9ffdfb189b874bc",
+            "visible": true
+        },
+        {
+            "_source": {
+                "sha1": "64bc8e2fe00394aed7d51876ba75a3431c0e398f",
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "48e8304e29d55eb71cd44c2677f31fb908615c0a6bddc558f915496308d8bbf1",
+                "size": 287787,
+                "finish_date": "2020-01-04T07:57:52",
+                "ssdeep": "6144:yOrNKQjNQnWqJolkFucBm1fXr9ICcYerKJbYmW:y4NKQjNQfqOuEm1fXncdrKJbJW",
+                "region": [
+                    "us"
+                ],
+                "create_date": "2020-01-04T07:52:14",
+                "update_date": "2020-12-16T10:21:21",
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2013-11-28T01:09:46"
+                    }
+                ],
+                "md5": "134029ef97fe9d2b496d2b43faa92062",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "48e8304e29d55eb71cd44c2677f31fb908615c0a6bddc558f915496308d8bbf1",
+            "visible": true
+        },
+        {
+            "_source": {
+                "sha1": "22dd9b4e2f1e74d8caf0561016ba12e2eaa83300",
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "fe85619a95dcaceecbe67acf97c1f3e65d2463bcc28f5927988f322b4d35ce79",
+                "size": 144904,
+                "finish_date": "2020-01-05T13:51:35",
+                "ssdeep": "3072:yOrKGDPCwbbXzU0jrVCnWqJolwPE4FucDElmiYBY13852fNCcAaHZts:yOrNKQjNQnWqJolkFucBm1fXrs",
+                "region": [
+                    "us"
+                ],
+                "create_date": "2020-01-05T13:46:43",
+                "update_date": "2020-12-16T10:21:20",
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2013-11-28T01:09:46"
+                    }
+                ],
+                "md5": "08a4954ba1c11a71ca44d841ad9c928a",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "fe85619a95dcaceecbe67acf97c1f3e65d2463bcc28f5927988f322b4d35ce79",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "17182c68cab232a2fb535e891111dad68ffd28f939ca5da994d6c76827db7a9a",
+                "ssdeep": "1536:skWV4gwyg2FJ38WJN/XstNXtvW5mg1SuY4pYTjipvF2a:skWNwyLv/ENXtv81sCYvQd2a",
+                "update_date": "2020-12-16T10:21:12",
+                "sha1": "6ba2dbe031a2ae33920895d485cb35fc9a83bd37",
+                "imphash": "ab6e19c6f34be4606b0f14bbd5648880",
+                "size": 107854,
+                "finish_date": "2020-01-19T04:07:18",
+                "create_date": "2020-01-19T03:58:44",
+                "region": [
+                    "us"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2006-10-23T07:08:22"
+                    }
+                ],
+                "md5": "970cae730bee6fbde662e6b2ac4bbc6a",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "17182c68cab232a2fb535e891111dad68ffd28f939ca5da994d6c76827db7a9a",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "e8fa3f32a7935e0849fd34c5c5356d5f77d0ac7eda6c2845b610f11701221992",
+                "ssdeep": "6144:yOrNKQjNQnWqJolkFucBm1fXr9ICcYerKJbYm3Iy6:y4NKQjNQfqOuEm1fXncdrKJbJ+",
+                "update_date": "2020-12-16T10:21:12",
+                "sha1": "61f11635edb83f6393991e1da70aee4e474c07d3",
+                "imphash": "8b2c18b411d31cbef33f61e5be07509a",
+                "size": 326992,
+                "finish_date": "2020-01-10T11:56:51",
+                "create_date": "2020-01-10T11:51:46",
+                "region": [
+                    "us"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2013-11-28T01:09:46"
+                    }
+                ],
+                "md5": "a7e8e7010b74085898ff7d3588b43502",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "e8fa3f32a7935e0849fd34c5c5356d5f77d0ac7eda6c2845b610f11701221992",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "20fdff10d79d1069676b597133fc7da2fb59f25881e611bbe9e6dd3e40a96e2b",
+                "ssdeep": "1536:skiV4gwyg2FJ38WJN/XstNXtvW5LxJYTjipvF2a:skiNwyLv/ENXtvUYvQd2a",
+                "update_date": "2020-12-16T10:21:10",
+                "sha1": "9b3424794411ab2ab296f5d1ccb6d71f9bc45ea3",
+                "imphash": "ab6e19c6f34be4606b0f14bbd5648880",
+                "size": 107854,
+                "finish_date": "2020-01-19T05:34:00",
+                "create_date": "2020-01-19T05:27:47",
+                "region": [
+                    "us"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2006-10-23T07:08:22"
+                    }
+                ],
+                "md5": "79c0ae1d834078f5a88b8e0ed8f93511",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "20fdff10d79d1069676b597133fc7da2fb59f25881e611bbe9e6dd3e40a96e2b",
+            "visible": true
+        },
+        {
+            "_source": {
+                "sha1": "c150f68bce5d2d0f68e0b870a9ee76db1e9499fe",
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "8785eb468629c49637996ee57a6c8c064c7e4c61129671278925a8c211a8388f",
+                "size": 38426,
+                "finish_date": "2020-01-14T07:34:56",
+                "ssdeep": "768:HV6nx+yxzIdSy6pBz0DSbv6+qZgI6ismQv2sLZj3:1ex+yxzS8BzS2GlCxd",
+                "region": [
+                    "us"
+                ],
+                "create_date": "2020-01-14T07:29:04",
+                "update_date": "2020-12-16T10:21:07",
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2013-11-28T06:21:10"
+                    }
+                ],
+                "md5": "2e4cf0fedb913ae88a6a57d875012c51",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "8785eb468629c49637996ee57a6c8c064c7e4c61129671278925a8c211a8388f",
+            "visible": true
+        },
+        {
+            "_source": {
+                "sha1": "9eac10a0c249b12660fb992c510786d866cc3a77",
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "04a510fceacf703da0ca7acaf2e3f8c437745c17833f9047cd66d21614f97b5e",
+                "size": 4001,
+                "finish_date": "2020-01-14T07:47:57",
+                "ssdeep": "48:OEPqtnbbT1If0GqLk5a6ZK1CWIOgn/gVyUwonezBAX/mHynmr7W2V9/LeaU:nPQbTe0+vWDWaYnTDeaU",
+                "region": [
+                    "us"
+                ],
+                "create_date": "2020-01-14T07:42:47",
+                "update_date": "2020-12-16T10:21:06",
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "1992-06-19T22:22:17"
+                    }
+                ],
+                "md5": "49a1c29f13e5049795224209e243400f",
+                "tag": [
+                    "Unit42.UPXPacked",
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "04a510fceacf703da0ca7acaf2e3f8c437745c17833f9047cd66d21614f97b5e",
+            "visible": true
+        },
+        {
+            "_source": {
+                "sha1": "2c6b5379ab82fc3278ab857cbfd23878060856dc",
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "7596b77fac2979965e47edd897c6433c8dcadfa7d74bf4fceda1f09dca237ffb",
+                "size": 54037,
+                "finish_date": "2020-01-13T10:12:54",
+                "ssdeep": "1536:yO/DUnVGDPCEC/Snb6mlNdDzOT6NZ8ERcQE:yOrKGDPCwbbXzU0jE",
+                "region": [
+                    "us"
+                ],
+                "create_date": "2020-01-13T10:06:40",
+                "update_date": "2020-12-16T10:21:06",
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2013-11-28T01:09:46"
+                    }
+                ],
+                "md5": "4fc2e01bb11520d1590dec62ceddd74b",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "7596b77fac2979965e47edd897c6433c8dcadfa7d74bf4fceda1f09dca237ffb",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "67ab4fd3a5aeef2b77b117be3ceac2c2bc3feb4969954a4bb522436cae014b13",
+                "ssdeep": "24576:Hzkd86P55uJF2XR3+ZI/a+FTy2b4fhuAhnADX:TsuA3GI/XFT3bg8CEX",
+                "update_date": "2020-12-16T10:21:06",
+                "sha1": "3b810be29dda1e3ef063f79afdd5591afa56b230",
+                "imphash": "c4f38e3d661a34f46d6c870aaf8c91db",
+                "size": 1457664,
+                "finish_date": "2020-01-17T10:08:57",
+                "create_date": "2020-01-17T10:02:45",
+                "region": [
+                    "us"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2020-01-09T20:48:51"
+                    }
+                ],
+                "md5": "6a130b0d5aa3d3f007ac142791a62af7",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "67ab4fd3a5aeef2b77b117be3ceac2c2bc3feb4969954a4bb522436cae014b13",
+            "visible": true
+        },
+        {
+            "_source": {
+                "sha1": "4f0d1a026d8e1928e6224ba089c4ad90032a22db",
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "d3559c98e7138dad3ed5e9541e730a03ba887e96929a3412ea3355b8577d6746",
+                "size": 20496,
+                "finish_date": "2020-01-10T11:51:55",
+                "ssdeep": "384:aNm8FDC/Bus9Q3amPhhiI4tC4orh21KsaCC3kSklYyFUvmJo8:aNL0fm3lOS92cqZ137",
+                "region": [
+                    "us"
+                ],
+                "create_date": "2020-01-10T11:46:21",
+                "update_date": "2020-12-16T10:21:05",
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2008-01-30T15:15:35"
+                    }
+                ],
+                "md5": "06cc9e1f0992326f6eb22d4dc3f3a013",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "d3559c98e7138dad3ed5e9541e730a03ba887e96929a3412ea3355b8577d6746",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "72e1f96a9e706f5138f6e0ea17b3d03e38e3b819245f03a09cd49c762d0903bf",
+                "ssdeep": "12288:1QXznhWxifqPG8yDAay0BQeMrtQW27ZJ6ObWTE5lqtmr:1QXznYybPJnWTE5lqwr",
+                "update_date": "2020-12-16T10:21:04",
+                "sha1": "6231107c20adebb6050117b390fefffac31c8bcc",
+                "imphash": "9cb11d0d4bed69c64ae8d0549b4ce4ce",
+                "size": 529040,
+                "finish_date": "2020-01-10T11:55:49",
+                "region": [
+                    "us"
+                ],
+                "create_date": "2020-01-10T11:49:46",
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2013-11-28T06:21:10"
+                    }
+                ],
+                "md5": "d1fc6ead5f4bb3da283eb081bd55aab4",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "72e1f96a9e706f5138f6e0ea17b3d03e38e3b819245f03a09cd49c762d0903bf",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "e1b4904e2871d925a41050f878771bf95cad9350e0e587abe7ca9e1b2d87f0cf",
+                "ssdeep": "12288:KcZcyoBEe4Pt9sDHkJr8QFC5hGJmxbcx4CwLgVz:TWBAPt93Jg8JmxbcxwsZ",
+                "update_date": "2020-12-16T10:21:03",
+                "sha1": "3b8d498215755122c4e5c35b77b48577b0053eaf",
+                "imphash": "586316aae0f773efd1ace0cd0b373ecc",
+                "size": 610304,
+                "finish_date": "2020-01-19T16:23:58",
+                "create_date": "2020-01-19T16:17:43",
+                "region": [
+                    "us"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2009-07-29T15:56:16"
+                    }
+                ],
+                "md5": "e44e888d504efdbbeb7506896747ba73",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "e1b4904e2871d925a41050f878771bf95cad9350e0e587abe7ca9e1b2d87f0cf",
+            "visible": true
+        },
+        {
+            "_source": {
+                "sha1": "3c8b5a4b794bde86e5d2e530fb3b8a92006b0087",
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "0b35a35a8d7c142fce166644e720691b30265c7e01aabf83c8512638cc2b425a",
+                "size": 371980,
+                "finish_date": "2020-01-10T11:52:01",
+                "ssdeep": "6144:1QXznSVc3WNP2om9EifqPG8yDAay0BQeMrtQW27ZVegbGd52kFicwbbwIzMph853:1QXznhWxifqPG8yDAay0BQeMrtQW27ZD",
+                "region": [
+                    "us"
+                ],
+                "create_date": "2020-01-10T11:45:28",
+                "update_date": "2020-12-16T10:21:02",
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2013-11-28T06:21:10"
+                    }
+                ],
+                "md5": "df47b4d103cba612542bc7244e6e8f6e",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "0b35a35a8d7c142fce166644e720691b30265c7e01aabf83c8512638cc2b425a",
+            "visible": true
+        },
+        {
+            "_source": {
+                "sha1": "29507492b35c6dbc953fb27d04b8196e9753214a",
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "d9b7aabc8e4ce4de1a52854184fe788e6a2403b4b3e6e98b0a7f62a630157f98",
+                "size": 313552,
+                "finish_date": "2020-01-19T13:52:13",
+                "ssdeep": "6144:vreEMnETH9OADbrTBieGOvyC48Ip20z2zOmE4wr5+hsdVMItZTohfQQ:6Epb9OADbrcvOvyC47BP4wroKwWQ",
+                "region": [
+                    "us"
+                ],
+                "create_date": "2020-01-19T13:44:15",
+                "update_date": "2020-12-16T10:21:01",
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2010-03-23T10:05:16"
+                    }
+                ],
+                "md5": "be7f69bdab4b3c080284038f312062b9",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "d9b7aabc8e4ce4de1a52854184fe788e6a2403b4b3e6e98b0a7f62a630157f98",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "d832b795c137c9508501ecf367564cc440e2e04c637e3793e0bd98f537ed5a6b",
+                "ssdeep": "24576:fqRSd3TaRna/+PmGTJA0TKiWVfB/3dY7P6oPX00xzRjXRvg:GSd3T8FOaJtWNM7xPE0B5XRvg",
+                "update_date": "2020-12-16T10:21:00",
+                "sha1": "ae43fed782a9d783f13252c557b0647861cee305",
+                "imphash": "5cf6ae858023a7dec858a439ac375aa8",
+                "size": 1171456,
+                "finish_date": "2020-01-19T16:11:48",
+                "region": [
+                    "us"
+                ],
+                "create_date": "2020-01-19T16:03:19",
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2007-11-07T17:19:27"
+                    }
+                ],
+                "md5": "0a26108ebe3f3931defb0748947f3114",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "d832b795c137c9508501ecf367564cc440e2e04c637e3793e0bd98f537ed5a6b",
+            "visible": true
+        },
+        {
+            "_source": {
+                "sha1": "937340a38fff6401635c70a776bf7cb892ca49b8",
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "30b8231c2189a06f8c483d68901307e10e9fe2033afd3e1e0556a3edba604d05",
+                "size": 54180,
+                "finish_date": "2020-01-15T07:55:58",
+                "ssdeep": "768:HV6nx+yxzIdSy6pBz0DSbv6+qZgI6ismQv2sLZjAd7xcNN1yXAlTU3RNoUB:1ex+yxzS8BzS2GlCxicswTUhNl",
+                "region": [
+                    "us"
+                ],
+                "create_date": "2020-01-15T07:49:43",
+                "update_date": "2020-12-16T10:20:58",
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2013-11-28T06:21:10"
+                    }
+                ],
+                "md5": "91eaf40d87d1a1f3334b881270411ac0",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "30b8231c2189a06f8c483d68901307e10e9fe2033afd3e1e0556a3edba604d05",
+            "visible": true
+        },
+        {
+            "_source": {
+                "sha1": "9c1eeb288db1d403c7c6e049cd1cae8b78a00f7c",
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "5fc6f711fc923839d5f51230980d2d52b8ba0e350b90f4429455ad666a59100b",
+                "size": 367997,
+                "finish_date": "2020-01-11T22:17:52",
+                "ssdeep": "6144:1QXznSVc3WNP2om9EifqPG8yDAay0BQeMrtQW27ZVegbGd52kFicwbbwIzMph85v:1QXznhWxifqPG8yDAay0BQeMrtQW27ZT",
+                "region": [
+                    "us"
+                ],
+                "create_date": "2020-01-11T22:12:41",
+                "update_date": "2020-12-16T10:20:56",
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "2013-11-28T06:21:10"
+                    }
+                ],
+                "md5": "8bcf8ddedc2e1a61efcfc7a732ce228e",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "5fc6f711fc923839d5f51230980d2d52b8ba0e350b90f4429455ad666a59100b",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "64438828486a54a5d3e0565b2d19de836e37b246e571bdb19e9f45625802d1a0",
+                "ssdeep": "6144:o46zgFYEFIxFsRUMAjfASRQ7xNSSP5Vxz2:CzeYqIxWoAt7x5VZ2",
+                "update_date": "2020-12-16T10:20:55",
+                "sha1": "fdb3c4f2cd3b37a8ee86b399c5059f1f9fc50b47",
+                "imphash": "cf7beba9ed0b40beb1b0ce6655a0c269",
+                "size": 239616,
+                "finish_date": "2020-01-18T11:35:15",
+                "create_date": "2020-01-18T11:29:12",
+                "region": [
+                    "us"
+                ],
+                "tasks": [
+                    {
+                        "metadata_compilation_ts": "1992-06-19T22:22:17"
+                    }
+                ],
+                "md5": "73bd72953b4a3f8c411152f489b10c18",
+                "tag": [
+                    "Commodity.Ramnit"
+                ],
+                "tag_groups": [
+                    "FileInfector",
+                    "BankingTrojan"
+                ]
+            },
+            "_id": "64438828486a54a5d3e0565b2d19de836e37b246e571bdb19e9f45625802d1a0",
+            "visible": true
+        }
+    ],
+    "total": 11793063,
+    "took": 14130,
+    "tags": {
+        "commodity.ramnit": {
+            "support_id": 1,
+            "tag_name": "Ramnit",
+            "public_tag_name": "Commodity.Ramnit",
+            "tag_definition_scope_id": 3,
+            "tag_definition_status_id": 1,
+            "count": 8519266,
+            "lasthit": "2020-12-20 03:19:49",
+            "description": "Ramnit is a virus which infects HTML, EXE and other files on the infected system. Users who open these infected file (on shared drives or after the files have been moved to other systems) will become infected with Ramnit. Ramnit's primary goal is to install other malware on the system after reaching out to a command and control server. Later versions of Ramnit incorporated components of the Zeus banking Trojan that allowed it to steal passwords and online banking credentials. \n\nRamnit was the subject of a law-enforcement take-down in February 2015. ",
+            "customer_name": "Palo Alto Networks Unit42",
+            "customer_industry": "High Tech",
+            "source": "Unit 42",
+            "tag_class_id": 3,
+            "tag_definition_id": 1323,
+            "aliases": [
+                "Nimnul"
+            ],
+            "up_votes": 3,
+            "tag_groups": [
+                {
+                    "tag_group_name": "FileInfector",
+                    "description": "File infectors are malware capable of infecting files to spread on other systems, removable devices, and the network. To do this routine, they seek out and copy their malicious code to certain files (.EXE, .DLL, .SYS, and .HTML among others)."
+                },
+                {
+                    "tag_group_name": "BankingTrojan",
+                    "description": "Banking Trojans are a type of malware frequently used to steal sensitive information such as banking credentials. To do so, attackers normally inject malicious code into a website or a device; the code is frequently delivered through phishing emails."
+                }
+            ]
+        },
+        "unit42.ipaddress_lookup": {
+            "support_id": 1,
+            "tag_name": "IPAddressLookup",
+            "public_tag_name": "Unit42.IPAddressLookup",
+            "tag_definition_scope_id": 4,
+            "tag_definition_status_id": 1,
+            "count": 9217540,
+            "lasthit": "2020-12-20 04:48:19",
+            "description": "The sample contacted an IP address info service via HTTP. This is often used malware to tailor a message or note to the compromised system in a user's language by geographic IP location. This behavior is also used often used by malware to identify sandboxes to prevent executing in a lab environment. ",
+            "customer_name": "Palo Alto Networks Unit42",
+            "customer_industry": "High Tech",
+            "source": "Unit 42",
+            "tag_class_id": 5,
+            "tag_definition_id": 39337,
+            "up_votes": 1
+        },
+        "unit42.http_no_user_agent": {
+            "support_id": 1,
+            "tag_name": "HttpNoUserAgent",
+            "public_tag_name": "Unit42.HttpNoUserAgent",
+            "tag_definition_scope_id": 4,
+            "tag_definition_status_id": 1,
+            "count": 23323713,
+            "lasthit": "2020-12-19 19:20:31",
+            "description": "A sample creates HTTP traffic but omits or uses a blank user-agent field. Typically, legitimate applications will include a user-agent value in HTTP requests. HTTP requests without the user-agent header or with a blank user agent value are extremely suspect. This tag identified such suspect applications.",
+            "customer_name": "Palo Alto Networks Unit42",
+            "customer_industry": "High Tech",
+            "source": "Unit 42",
+            "tag_class_id": 5,
+            "tag_definition_id": 41533,
+            "up_votes": 4
+        },
+        "unit42.virtual_machine_detection": {
+            "support_id": 1,
+            "tag_name": "VirtualMachineDetection",
+            "public_tag_name": "Unit42.VirtualMachineDetection",
+            "tag_definition_scope_id": 4,
+            "tag_definition_status_id": 1,
+            "count": 3704869,
+            "lasthit": "2020-12-20 03:45:58",
+            "description": "This tag covers samples that check for files which only exist within virtual machines and typically do not exist on \"bare metal\" systems. These files are indicative of a VM and may affect how the malware executes or acts, and may be used by malware authors to alter sample behavior within sandboxes to evade detection. ",
+            "customer_name": "Palo Alto Networks Unit42",
+            "customer_industry": "High Tech",
+            "source": "Unit 42",
+            "tag_class_id": 5,
+            "tag_definition_id": 43334,
+            "up_votes": 1
+        },
+        "unit42.upxpacked": {
+            "support_id": 1,
+            "tag_name": "UPXPacked",
+            "public_tag_name": "Unit42.UPXPacked",
+            "tag_definition_scope_id": 4,
+            "tag_definition_status_id": 1,
+            "count": 38435402,
+            "lasthit": "2020-12-20 02:02:36",
+            "description": "UPX (Ultimate Packer for Executables) is an open source executable packer supporting a number of file formats from different operating systems. Malware files are often packed using UPX in order to reduce its size and sometimes to bypass certain detection measures.",
+            "customer_name": "Palo Alto Networks Unit42",
+            "customer_industry": "High Tech",
+            "source": "Unit 42",
+            "tag_class_id": 5,
+            "tag_definition_id": 79847
+        },
+        "unit42.egregor": {
+            "support_id": 1,
+            "tag_name": "Egregor",
+            "public_tag_name": "Unit42.Egregor",
+            "tag_definition_scope_id": 4,
+            "tag_definition_status_id": 1,
+            "count": 108,
+            "lasthit": "2020-12-19 06:36:10",
+            "description": "Egregor Ransomware is part of the Sekhmet malware family and has targeted numerous organizations whose data they leak when the ransom isn't paid. Similar to Petya, it uses Salsa20 for encryption and has more advance capabilities than observed in most ransomware families, indicating a more capable group behind this threat.\n\nIn addition, this malware will check for Logmein event logs to try and further encrypt remote servers connected to the target machine. \n\nThis family that encrypts files on the system using an embedded RSA public key. This ransomware will create a ransom message in a file named RECOVER-FILES.txt.",
+            "customer_name": "Palo Alto Networks Unit42",
+            "customer_industry": "High Tech",
+            "source": "Unit 42",
+            "tag_class_id": 3,
+            "tag_definition_id": 87212,
+            "aliases": [
+                "Sehkmet",
+                "Sekhmet"
+            ],
+            "tag_groups": [
+                {
+                    "tag_group_name": "Ransomware",
+                    "description": "Ransomware is a type of malware that prevents users from accessing their system or personal files and demands ransom payment in order to regain access."
+                }
+            ]
+        }
+    },
+    "tag_groups": {
+        "ransomware": {
+            "tag_group_name": "Ransomware",
+            "description": "Ransomware is a type of malware that prevents users from accessing their system or personal files and demands ransom payment in order to regain access."
+        },
+        "file_infector": {
+            "tag_group_name": "FileInfector",
+            "description": "File infectors are malware capable of infecting files to spread on other systems, removable devices, and the network. To do this routine, they seek out and copy their malicious code to certain files (.EXE, .DLL, .SYS, and .HTML among others)."
+        },
+        "banking_trojan": {
+            "tag_group_name": "BankingTrojan",
+            "description": "Banking Trojans are a type of malware frequently used to steal sensitive information such as banking credentials. To do so, attackers normally inject malicious code into a website or a device; the code is frequently delivered through phishing emails."
+        }
+    },
+    "original_query": {
+        "body": {
+            "size": 50,
+            "query": {
+                "children": [
+                    {
+                        "field": "sample.filetype",
+                        "value": "DLL",
+                        "operator": "is"
+                    }
+                ],
+                "operator": "any"
+            },
+            "scope": "public",
+            "from": 0,
+            "sort": {
+                "update_date": {
+                    "order": "desc"
+                }
+            }
+        },
+        "url": "/api/v1.0/samples/search"
+    },
+    "af_in_progress": true,
+    "af_first_result_af_took": 357,
+    "af_complete_percentage": 18,
+    "af_cookie": "2-03d85760-b1c2-4cf2-8a73-0467659b9354+0",
+    "bucket_info": {
+        "minute_points": 200,
+        "daily_points": 5000,
+        "minute_points_remaining": 189,
+        "daily_points_remaining": 4821,
+        "minute_bucket_start": "2020-12-20 13:02:54",
+        "daily_bucket_start": "2020-12-19 13:51:11"
+    }
+}

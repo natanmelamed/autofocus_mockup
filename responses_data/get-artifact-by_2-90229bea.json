@@ -1,0 +1,78 @@
+{
+    "hits": [
+        {
+            "_source": {
+                "filetype": "PE",
+                "malware": 1,
+                "sha256": "2291817af1acee7bf2e438eb5dd9e6782ac1844a03abfc454d5796118dcc9219",
+                "size": 83456,
+                "region": [
+                    "us"
+                ],
+                "create_date": "2013-06-22T20:41:03",
+                "md5": "0da402768a75ba64b90d2b73b48a69e4",
+                "tag": [],
+                "tag_groups": []
+            },
+            "_id": "2291817af1acee7bf2e438eb5dd9e6782ac1844a03abfc454d5796118dcc9219",
+            "visible": true
+        },
+        {
+            "_source": {
+                "filetype": "DLL",
+                "malware": 1,
+                "sha256": "82c985cba0c3b6da504998a09bc5324e08000a86ce8dd924a1245ef2d91d6816",
+                "size": 83456,
+                "region": [
+                    "us"
+                ],
+                "create_date": "2013-06-10T09:14:10",
+                "md5": "d84a44fdf71f59b37224b387d93c3301",
+                "tag": [],
+                "tag_groups": []
+            },
+            "_id": "82c985cba0c3b6da504998a09bc5324e08000a86ce8dd924a1245ef2d91d6816",
+            "visible": true
+        }
+    ],
+    "total": 2,
+    "took": 8185,
+    "tags": {},
+    "tag_groups": {},
+    "original_query": {
+        "body": {
+            "size": 50,
+            "query": {
+                "children": [
+                    {
+                        "field": "sample.threat_name",
+                        "value": "TDSS/Win32.fey.a",
+                        "operator": "is"
+                    }
+                ],
+                "operator": "any"
+            },
+            "scope": "public",
+            "from": 0,
+            "sort": {
+                "update_date": {
+                    "order": "desc"
+                }
+            }
+        },
+        "url": "/api/v1.0/samples/search"
+    },
+    "af_message": "complete",
+    "af_in_progress": false,
+    "af_first_result_af_took": 8497,
+    "af_complete_percentage": 100,
+    "af_cookie": "2-90229bea-8a86-47d7-9946-bd7ece3eb29f+0",
+    "bucket_info": {
+        "minute_points": 200,
+        "daily_points": 5000,
+        "minute_points_remaining": 178,
+        "daily_points_remaining": 4890,
+        "minute_bucket_start": "2020-12-20 12:34:45",
+        "daily_bucket_start": "2020-12-19 13:51:11"
+    }
+}
